@@ -1,0 +1,28 @@
+{
+  "numero": "123456789",
+  "nom": "string",
+  "type_procedure": "string",
+  "aiot": {
+    "code": "123456789",
+    "adresse": {
+      "adresse_1": "string",
+      "adresse_2": "string",
+      "adresse_3": "string",
+      "code_postal": "strin",
+      "commune": "string",
+      "code_insee": "strin"
+    },
+    "raison_sociale": "string",
+    "courriel_echange": "user@example.com",
+    "service": "string",
+    "sous_service": "string",
+    "regime": "string"
+  },
+  "agent": {
+    "civilite": "MONSIEUR",
+    "nom": "string",
+    "prenom": "string",
+    "fonction": "string",
+    "organisme": "string",
+    "date_naissance": "2023-11-24",
+    "telephone_fi
