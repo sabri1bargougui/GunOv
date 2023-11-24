@@ -25,4 +25,20 @@
     "fonction": "string",
     "organisme": "string",
     "date_naissance": "2023-11-24",
-    "telephone_fi
+    "telephone_fixe": "862)473677134",
+    "telephone_mobile": "+3976276587",
+    "email": "antoine.dupond@domaine.fr"
+  },
+  "sous_service_agent": "string",
+  "service_agent": "string",
+  "statut_delais": "EN_COURS",
+  "service_instructeur": "string",
+  "types_autorisations": [
+    "AUTORISATION_IOTA"
+  ],
+  "procedures_embarquees": [
+    "AGREMENT_DECHETS"
+  ],
+  "presentation_projet": "string",
+  "type_projet": "MARITIME"
+}
